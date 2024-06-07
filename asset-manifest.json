@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmojiListReact/static/css/main.82c1fb82.css",
+    "main.js": "/EmojiListReact/static/js/main.eb19ef93.js",
+    "index.html": "/EmojiListReact/index.html",
+    "main.82c1fb82.css.map": "/EmojiListReact/static/css/main.82c1fb82.css.map",
+    "main.eb19ef93.js.map": "/EmojiListReact/static/js/main.eb19ef93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c1fb82.css",
+    "static/js/main.eb19ef93.js"
+  ]
+}
