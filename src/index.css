@@ -1,0 +1,44 @@
+.app{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1;
+  height: 100%;
+  min-height: 100vh;
+  background-color:  rgb(59, 111, 111);
+}
+header{
+  
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 100%;
+  background-color: rgb(5, 70, 70);;
+  padding: 5%;
+  border-radius: 2%;
+  border: 1px solid black;
+ 
+
+}
+input{
+  padding: 20px;
+  border-radius: 1%;
+  border: 0;
+  outline: 0;
+  background-color:#eee;
+}
+.emoji{
+  
+  padding: 5px;
+  
+}
+p{
+ padding: 5px;
+ font-size: 1.2rem;
+}
+a{
+  color: red;
+}
